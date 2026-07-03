@@ -1,10 +1,6 @@
 # Mundial 2026 - Simulador familiar
 
-Esta carpeta contiene una pagina local lista para abrir con doble clic:
-
-`C:\Users\yaffa\Desktop\FOOTBALL\index.html`
-
-La app esta hecha en HTML, CSS y JavaScript puro. El archivo principal es autocontenido para que funcione aunque no haya servidor.
+Simulador interactivo del Mundial 2026 hecho en HTML, CSS y JavaScript puro. Se abre con doble clic en `index.html` y funciona sin servidor.
 
 ## Archivos
 
